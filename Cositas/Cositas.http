@@ -1,0 +1,6 @@
+@Cositas_HostAddress = http://localhost:5211
+
+GET {{Cositas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
